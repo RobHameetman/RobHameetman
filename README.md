@@ -128,4 +128,4 @@ following contact information:
 
 ##### Graphic Design
 
-[header]: /.github/header.png '@rob.hameetman'
+[header]: https://github.com/RobHameetman/RobHameetman/blob/master/.github/header.png '@rob.hameetman'
