@@ -31,7 +31,9 @@ npm init @rob.hameetman/hire
 
 ## Inspire11
 
-### Consultant, Engineering Lead | _2019 – present_
+### Consultant, Engineering Lead
+
+#### _2019 – present_
 
 [![React](https://img.shields.io/badge/React-16.8.0+%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-3+-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![StyledComponents](https://img.shields.io/badge/styled--components-4.3.1%20-%23DB7093.svg?&logo=styled-components&logoColor=DB7093)](https://styled-components.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![AWS](https://img.shields.io/badge/AWS-Serverless%20-%23ec902e.svg?&logo=amazon&logoColor=ec902e)](https://aws.amazon.com/lambda/)  
 [![UI Libraries](https://img.shields.io/badge/Storybook-UI%20Libraries-%23FF4785.svg?&logo=storybook&logoColor=FF4785)](https://storybook.js.org/) [![Package Ecosystems](https://img.shields.io/badge/NPM-Package%20Ecosystems-%23d20000.svg?&logo=npm&logoColor=d20000)](https://www.npmjs.com/)
@@ -53,7 +55,9 @@ npm init @rob.hameetman/hire
 
 ## The Graide Network
 
-### Sr. Full Stack Engineer, Contract | _2018_
+### Sr. Full Stack Engineer, Contract
+
+#### _2018_
 
 [![Angular](https://img.shields.io/badge/Angular-6.0.0%20-%23DD0031.svg?&logo=angular&logoColor=DD0031)](https://angular.io/) [![TS](https://img.shields.io/badge/TypeScript-2-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![RxJS](https://img.shields.io/badge/RxJS-6.0.0%20-%23B7178C.svg?&logo=ReactiveX&logoColor=white)](https://www.learnrxjs.io/) [![NgRx](https://img.shields.io/badge/NgRX-6.0.0+%20-%23764ABC.svg?&logo=redux&logoColor=white)](https://ngrx.io/)
 [![Laravel](https://img.shields.io/badge/laravel-5.5+%20-%23FF2D20.svg?&logo=laravel&logoColor=FF2D20)](https://laravel.com/) [![MySQL](https://img.shields.io/badge/MySQL-5.7+%20-%23245478.svg?&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![Redis](https://img.shields.io/badge/Redis-5.0+%20-%23c6302b.svg?&logo=redis&logoColor=c6302b)](https://redis.io/)
@@ -73,7 +77,9 @@ npm init @rob.hameetman/hire
 
 ## She Should Run
 
-### Engineering Consultant, Pro Bono | _2017 – 2018_
+### Engineering Consultant, Pro Bono
+
+#### _2017 – 2018_
 
 [![JS](https://img.shields.io/badge/ES-2015+%20-%23F7DF1E.svg?&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/ecma-262/6.0/) [![HTML](https://img.shields.io/badge/HTML-5%20-%23E34F26.svg?&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org/) [![CSS](https://img.shields.io/badge/CSS-3%20-%23254ee4.svg?&logo=css3&logoColor=254ee4)](https://www.w3.org/TR/css-2018/) [![SCSS](https://img.shields.io/badge/SCSS-3.4%20-hotpink.svg?&logo=SASS&logoColor=hotpink)](https://sass-lang.com/)
 [![NationBuilder](https://img.shields.io/badge/%23%20NationBuilder-2.1-%236d7096.svg?&logo=x&logoColor=6d7096)](https://nationbuilder.com/) [![Liquid](https://img.shields.io/badge/Liquid-Templating%20Language-%23fcd514.svg?&logo=drop&logoColor=white)](https://nationbuilder.com/liquid)
@@ -83,7 +89,9 @@ npm init @rob.hameetman/hire
 
 ## L2 Interactive
 
-### Full Stack Engineer | _2016 – 2017_
+### Full Stack Engineer
+
+#### _2016 – 2017_
 
 [![React](https://img.shields.io/badge/React-0.14%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![Webpack](https://img.shields.io/badge/Webpack-1%20-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Babel](https://img.shields.io/badge/Babel-6.0.0%20-%23F9DC3E.svg?&logo=babel&logoColor=F9DC3E)](https://babeljs.io/) [![Node](https://img.shields.io/badge/Node-8.0.0%20-%2390c540.svg?&logo=node.js&logoColor=90c540)](https://nodejs.org/en/) [![PHP](https://img.shields.io/badge/PHP-5.6-%23777BB4.svg?&logo=php&logoColor=777BB4)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7+%20-%23245478.svg?&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![XML](https://img.shields.io/badge/XML-1.1-%236a9f32.svg?&logo=xml&logoColor=white)](https://www.w3.org/XML/) [![XSLT](https://img.shields.io/badge/XSLT-2.0%20-%234aa4a4.svg?&logo=xml&logoColor=white)](https://www.w3.org/Style/XSL/)
@@ -96,7 +104,9 @@ npm init @rob.hameetman/hire
 
 ## Web2Carz.com
 
-### Front End Developer | _2015 – 2016_
+### Front End Developer
+
+#### _2015 – 2016_
 
 [![AngularJS](https://img.shields.io/badge/AngularJS-1.9%20-%23E23237.svg?&logo=angularjs&logoColor=E23237)](https://angularjs.org/) [![JS](https://img.shields.io/badge/ES-6%20-%23F7DF1E.svg?&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/ecma-262/6.0/) [![jQuery](https://img.shields.io/badge/jQuery-6%20-%230769AD.svg?&logo=jquery&logoColor=0769AD)](https://jquery.com/) [![SCSS](https://img.shields.io/badge/SCSS-3.4%20-hotpink.svg?&logo=SASS&logoColor=hotpink)](https://sass-lang.com/)
 [![C#](https://img.shields.io/badge/C%23-5.0-%23239120.svg?&logo=c-sharp&logoColor=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![JAVA](https://img.shields.io/badge/Java-SE%207-%23007396.svg?&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html)
@@ -112,8 +122,10 @@ npm init @rob.hameetman/hire
 
 ## Carthage College
 
-### Bachelor of Arts | _May, 2012_
+### Bachelor of Arts
 
-#### Graphic Design
+#### _May, 2012_
+
+##### Graphic Design
 
 [header]: https://github.com/RobHameetman/RobHameetman/blob/master/.github/header.png '@rob.hameetman'
