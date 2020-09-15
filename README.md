@@ -54,7 +54,7 @@ npm init @rob.hameetman/hire
 > - Lead monthly global alignment meetings for the Engineering Practice and worked with offshore offices to find speakers for project spotlights.
 > - Created, standardized, and curated internal NPM package ecosystems, including `@inspire11`, `@i11`, and `@inspire-ui`.
 
-## The Graide Network | Sr. Full Stack Engineer, Contract
+## The Graide Network | Sr. Full Stack Engineer
 
 ### _2018_
 
