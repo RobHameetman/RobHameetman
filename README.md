@@ -29,7 +29,7 @@ npm init @rob.hameetman/hire
 
 ---
 
-## Inspire11 - Consultant, Engineering Lead
+## Inspire11 | Consultant, Engineering Lead
 
 ### _2019 – present_
 
@@ -51,7 +51,7 @@ npm init @rob.hameetman/hire
 > - Lead monthly global alignment meetings for the Engineering Practice and worked with offshore offices to find speakers for project spotlights.
 > - Created, standardized, and curated internal NPM package ecosystems, including `@inspire11`, `@i11`, and `@inspire-ui`.
 
-## The Graide Network - Sr. Full Stack Engineer, Contract
+## The Graide Network | Sr. Full Stack Engineer, Contract
 
 ### _2018_
 
@@ -71,7 +71,7 @@ npm init @rob.hameetman/hire
 > - Implemented an autonomous distributed data archival solution to reduce the impact of undulations with rapid declension in data relevancy capable of archiving over 1,000,000 records in ~3.62μs on average.
 > - Spoke as a guest at Packback on Testing Patterns and Anti-Patterns in Angular for the Angular Chicago Meetup.
 
-## She Should Run - Engineering Consultant, Pro Bono
+## She Should Run | Engineering Consultant, Pro Bono
 
 ### _2017 – 2018_
 
@@ -81,11 +81,9 @@ npm init @rob.hameetman/hire
 > - Collaborated with the leadership team to develop a scalable cloud infrastructure solution across the manifold service regions and availability zones throughout the contiguous United States.
 > - Implemented a new client-facing UI (NationBuilder) yielding a proximate 13% boost in online fundraising.
 
-## L2 Interactive
+## L2 Interactive | Full Stack Engineer
 
-### Full Stack Engineer
-
-#### _2016 – 2017_
+### _2016 – 2017_
 
 [![React](https://img.shields.io/badge/React-0.14%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![Webpack](https://img.shields.io/badge/Webpack-1%20-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Babel](https://img.shields.io/badge/Babel-6.0.0%20-%23F9DC3E.svg?&logo=babel&logoColor=F9DC3E)](https://babeljs.io/) [![Node](https://img.shields.io/badge/Node-8.0.0%20-%2390c540.svg?&logo=node.js&logoColor=90c540)](https://nodejs.org/en/) [![PHP](https://img.shields.io/badge/PHP-5.6-%23777BB4.svg?&logo=php&logoColor=777BB4)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7+%20-%23245478.svg?&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![XML](https://img.shields.io/badge/XML-1.1-%236a9f32.svg?&logo=xml&logoColor=white)](https://www.w3.org/XML/) [![XSLT](https://img.shields.io/badge/XSLT-2.0%20-%234aa4a4.svg?&logo=xml&logoColor=white)](https://www.w3.org/Style/XSL/)
@@ -96,11 +94,9 @@ npm init @rob.hameetman/hire
 > - Discovered how to use OpenSSL with Chef to allow local development of the Cardholder Data Environment.
 > - Spearheaded the transition from Puppet to Chef for all virtualization provisioning yielding significant improvements in local development workflows and a 6% reduction in VM provisioning time-to-completion.
 
-## Web2Carz.com
+## Web2Carz.com | Front End Developer
 
-### Front End Developer
-
-#### _2015 – 2016_
+### _2015 – 2016_
 
 [![AngularJS](https://img.shields.io/badge/AngularJS-1.9%20-%23E23237.svg?&logo=angularjs&logoColor=E23237)](https://angularjs.org/) [![JS](https://img.shields.io/badge/ES-6%20-%23F7DF1E.svg?&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/ecma-262/6.0/) [![jQuery](https://img.shields.io/badge/jQuery-6%20-%230769AD.svg?&logo=jquery&logoColor=0769AD)](https://jquery.com/) [![SCSS](https://img.shields.io/badge/SCSS-3.4%20-hotpink.svg?&logo=SASS&logoColor=hotpink)](https://sass-lang.com/)
 [![C#](https://img.shields.io/badge/C%23-5.0-%23239120.svg?&logo=c-sharp&logoColor=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![JAVA](https://img.shields.io/badge/Java-SE%207-%23007396.svg?&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html)
@@ -114,12 +110,10 @@ npm init @rob.hameetman/hire
 
 ---
 
-## Carthage College
+## Carthage College | Bachelor of Arts
 
-### Bachelor of Arts
+### _May, 2012_
 
-#### _May, 2012_
-
-##### Graphic Design
+#### Graphic Design
 
 [header]: https://github.com/RobHameetman/RobHameetman/blob/master/.github/header.png '@rob.hameetman'
