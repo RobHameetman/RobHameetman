@@ -23,12 +23,15 @@ Further, I have achieved a top 4% world rank in JavaScript on both PluralSight a
 
 ![NPM](https://img.shields.io/badge/npm%20init-@rob%2Ehameetman%2Fhire%20-%23d20000.svg?&logo=npm&logoColor=white)
 
-Review my qualifications and request an interview by running the following command in your CLI, or via the contact
-information provided above:
+Review my curated collection of public work and request an interview by running the following command in your CLI, or via the contact information provided
+above:
 
 ```bash
 npm init @rob.hameetman/hire
 ```
+
+The prompt will request some contact information, then send a direct SMS
+notification so that I can get back to you as soon as possible.
 
 # 📑 Experience
 
@@ -132,5 +135,41 @@ _2015 – 2016_
 _May, 2012_
 
 > - Graphic Design
+
+# 👨🏼‍💻 Initiatives
+
+---
+
+## Omniframe
+
+[![MFEA](https://img.shields.io/badge/Micro--frontend%20Architecture-%231e1e1e.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAF6GlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgNzkuMTY0NDYwLCAyMDIwLzA1LzEyLTE2OjA0OjE3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMDktMTRUMjI6MTYtMDU6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMDktMTRUMjI6MTYtMDU6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTA5LTE0VDIyOjE2LTA1OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjllMjQ0NTA1LWJiZDQtNGI3NS1hNDg2LTQ0OTcyY2UyNzA2NCIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjBlOGUxN2VjLWFjNGUtZmI0MS05ZjE3LTM1YWI5MWQ4OGZiMiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmZmNDY2NzJjLWE3ZDMtNDhhYS05YWEzLWU5ODA5NDkxNDZjZSIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNyZWF0ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6ZmY0NjY3MmMtYTdkMy00OGFhLTlhYTMtZTk4MDk0OTE0NmNlIiBzdEV2dDp3aGVuPSIyMDIwLTA5LTE0VDIyOjE2LTA1OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6OWUyNDQ1MDUtYmJkNC00Yjc1LWE0ODYtNDQ5NzJjZTI3MDY0IiBzdEV2dDp3aGVuPSIyMDIwLTA5LTE0VDIyOjE2LTA1OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7eGjaHAAACJUlEQVRYw8XXP2gUQRTH8UMkEgnBQhQhXCFp1CpWhzYWFiktLVQELRSDfyotJFimEEmngoWghYWIjZLC0sJKrKysREhjkSIQCMGPhe90Hed2Z/cOHFhY9g3z+857+2be66H3P59OA7txEV+whkHHdcYS3sEzfPBrtAYpBsAunK8IP8U8DmAKiwnI8YkAhPBZfE6ED2EVW/iKKxmQ11joBJAIb+NxRjgdrUH+AcgIP0K/QbgzyG+ACQm3BkGvhyMZ4f2431E4B3I5MigF6fVwJj70Y9IevDTZsYWlireX4/sfgDC+wx3MYBApNa7waoRyPrJoKc6SLMCnMHwfEyQnvBO2myUAKiDXw1YCUhWeTYS1BUh3cbXGI23mNgLUuS8NzZsWc9dKAG5hLrOYTGjuYC8OF86dwUmcrgOYjuc5fhT8bKfCA01jA9dCY6oO4D1W4iA6ihcNIE0AG7iHfViIw+dGyU+4WQgyCiAnrEsabuJ22HIgKUBVeBavMnDFANXFBrib8cgQIN3xcmRGDroRIF3sbeKRamj6AZdz9RYeZKBrAS6MWEwmNCvh5mOFc4cgJ7IAlat4Gg/jep5UGq7jUmxyER+rANVKt1oT9ON9ewyA9XD5dKZwHfxVknUEGQVQK1xblGZAnsTRPJcpz1KAbyXCRWV5pgnJleRDgFH1X22zUtSYNIAcjCxoJdypNasBaS3cuTfMgOjaF3YGSEDOde2MhwA/AY+ANDba2/KnAAAAAElFTkSuQmCC&logoColor=white)](https://martinfowler.com/articles/micro-frontends.html)  [![JSX](https://img.shields.io/badge/JSX-%2361DAFB.svg?&logo=react&logoColor=2E2E2E)](https://www.typescriptlang.org/) [![WC](https://img.shields.io/badge/WebComponents%20-%2329ABE2.svg?&logo=webcomponents.org&logoColor=white)](https://nodejs.org/en/)  
+[![TS](https://img.shields.io/badge/TypeScript-3.4-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![Webpack](https://img.shields.io/badge/Webpack-4-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Node](https://img.shields.io/badge/Node-14.0%20-%2390c540.svg?&logo=node.js&logoColor=90c540)](https://nodejs.org/en/) [![Jest](https://img.shields.io/badge/Jest-26.0%20-%23C21325.svg?&logo=jest&logoColor=C21325)](https://nodejs.org/en/) [![Cypress](https://img.shields.io/badge/Cypress-5.0%20-%2317202C.svg?&logo=cypress&logoColor=white)](https://nodejs.org/en/)
+
+> Omniframe is a new approach to Front End microservice orchestration which
+> combines asynchronous rendering with organic event-driven service management.
+
+# 📚 Ancillary Skills
+
+---
+
+## Adobe
+
+[![PHOTOSHOP](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?&logo=adobe-photoshop&logoColor=white)](//) [![ILLUSTRATOR](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&logo=adobe-illustrator&logoColor=white)](//) [![ILLUSTRATOR](https://img.shields.io/badge/InDesign-%23EE3D8F.svg?&logo=adobe-indesign&logoColor=white)](//) [![XD](https://img.shields.io/badge/Acrobat-%23FF26BE.svg?&logo=adobe-xd&logoColor=white)](//) [![ACROBAT](https://img.shields.io/badge/Acrobat-%23EC1C24.svg?&logo=adobe-acrobat-reader&logoColor=white)](//)  
+[![CC](https://img.shields.io/badge/Creative%20Cloud-%23EC1C24.svg?&logo=adobe-creative-cloud&logoColor=white)](//) [![FONTS](https://img.shields.io/badge/Adobe%20Fonts-%23323232.svg?&logo=adobe-fonts&logoColor=white)](//)
+
+## Microsoft
+
+[![WORD](https://img.shields.io/badge/Word-%232B579A.svg?&logo=microsoft-word&logoColor=white)](//) [![EXCEL](https://img.shields.io/badge/Excel-%23217346.svg?&logo=microsoft-excel&logoColor=white)](//) [![POWERPOINT](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?&logo=microsoft-powerpoint&logoColor=white)](//) [![OUTLOOK](https://img.shields.io/badge/Outlook-%230078D4.svg?&logo=microsoft-outlook&logoColor=white)](//) [![TEAMS](https://img.shields.io/badge/Teams-%236264A7.svg?&logo=microsoft-teams&logoColor=white)](//)  
+[![CC](https://img.shields.io/badge/Sharepoint-%230078D4.svg?&logo=microsoft-sharepoint&logoColor=white)](//) [![OneDrive](https://img.shields.io/badge/OneDrive-%230078D4.svg?&logo=microsoft-onedrive&logoColor=white)](//) [![Exchange](https://img.shields.io/badge/Exchange-%230078D4.svg?&logo=microsoft-exchange&logoColor=white)](//) [![Office](https://img.shields.io/badge/Office365-%23D83B01.svg?&logo=microsoft-office&logoColor=white)](//)
+
+---
+
+[![EMAIL](https://img.shields.io/badge/engineering@robhameetman.com-%230078D4.svg?&logo=microsoft-exchange&logoColor=white)](mailto:engineering@robhameetman.com)  [![WEBSITE](https://img.shields.io/badge/https%3a//www.robhameetman.com-%23BC0031.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAgCAYAAAD9oDOIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF92lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgNzkuMTY0NDYwLCAyMDIwLzA1LzEyLTE2OjA0OjE3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMDktMTRUMjI6MTI6MzgtMDU6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMDktMTRUMjI6MTI6MzgtMDU6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTA5LTE0VDIyOjEyOjM4LTA1OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjVlYzQxYzQzLWU2ODAtNDA5OC1hM2VmLTA2MzJlMTBmYjRkMSIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjJiNTk5YzgwLTZhMmItMGM0OS04ZmZiLTljN2EwMThjYWM3ZSIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOjY2ZDhkMjllLTBjNzYtNDRkMy04ZmYzLWRlYzBkOTk0OGNiZSIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNyZWF0ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6NjZkOGQyOWUtMGM3Ni00NGQzLThmZjMtZGVjMGQ5OTQ4Y2JlIiBzdEV2dDp3aGVuPSIyMDIwLTA5LTE0VDIyOjEyOjM4LTA1OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6NWVjNDFjNDMtZTY4MC00MDk4LWEzZWYtMDYzMmUxMGZiNGQxIiBzdEV2dDp3aGVuPSIyMDIwLTA5LTE0VDIyOjEyOjM4LTA1OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6GT3tJAAACeklEQVRIDbXBX2gUdBwA8G+FBFFI+tJD9BClkFi+ZEH0EEWB0MsqJHBBGbmZ0EtYPVQUGbiCQilyYWA2xLWKWVrCQkgfhhbalv1RZEuu2tLyrjJv63afDn6TX9fdpgX3+QS6MYAhjGIMRRRR1lwZRRQxhlEMYQDdIRvGctyK5zEpGccqLEUHTkgqeBE3ow1fmBaS47gca/EObsSDmMQi3IdtuBc3oILVWIKteApzcURNSJ7D/bIxXIQeXIuqZApXYxfmYES2Ek+qCckTWCM7gznYiKXqLcEWXICibC3WqAnJIOZiFwp4GLfgV8zDBvyIVzEfJdyBFTiO3ZiHPWpCtgVX4GLcjoJkHxZGDa7DoGQcd+FCzMcbpoXstOSM7E9ZWTKBv2RlTKFsWkj243P04ZRkGPvQjzHJUXyK3RiRFPAR9uKwmkAvSrID2I4Tsq/Rh4JsBH04IhtHb2iB0AKhBUILhBYIvIefZHvwAUZkg+jHV7KD2IH9su+wPTCBbzCAXpQlo9iJXvwmGUc/3sdJSQnv4kP8gELgpPNXcW4HA0c19zOGZW/hGnSZ3Y7AJ5r7Fsvwh6QLd2Or2b0SeFlzVTyNddiEdvRgyOweCCwzswmsw2q04SHJx2a2MHAJftdoLzrRjjfxApZLBvGlRt/HWdik0QF04xcU8AzuxGFJl0YvxVlYgIpGp3EKj+F1rMTjkmfVq2JB/BM2qlfFCtyGDnSgA49gJzao1xP/hktxTL1D2IxDKOBRrMdnmJKVcFU0g0UomdkqdGJSvXtiNrgJJY2KaMd69TrjfGAxjmlUlBXRFv8FLsNrqKhXxdu4Mv4vLMY2FLEZ18c5/A2+RAHvxwc3hQAAAABJRU5ErkJggg==&logoColor=white)](https://www.robhameetman.com)  
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhameetman/) [![TWITTER](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white)](https://twitter.com/RobHameetman) [![SO](https://img.shields.io/badge/StackOverflow-%232d2d2d.svg?&logo=stack-overflow&logoColor=FE7A16)](https://twitter.com/RobHameetman)  
+
+Copyright (c) 2020 Robert H. Hameetman https://www.robhameetman.com/
+
+This document is licensed under the MIT License.
+See the [LICENSE.md](LICENSE.md) file for details.
 
 [header]: https://github.com/RobHameetman/RobHameetman/blob/master/.github/header.png '@rob.hameetman'
