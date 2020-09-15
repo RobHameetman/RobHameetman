@@ -12,9 +12,9 @@ I am a Lead Engineer with 6 years of specialized expertise building innovative s
 
 Further, I have achieved a top 4% world rank in JavaScript on both PluralSight and Hired, a top 8% world rank in TypeScript, and I rank in the 85th percentile or higher in React, Node, and NPM. I am also one of the few Engineers in Chicago with experience as an Architect on a B2B enterprise-level Micro-frontend Architecture Team in Finance.
 
----
-
 # 💼 Getting Started
+
+---
 
 [![NPM](https://img.shields.io/badge/npm%20init-@rob%2Ehameetman%2Fhire%20-%23d20000.svg?&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
@@ -24,7 +24,6 @@ information provided above:
 ```bash
 npm init @rob.hameetman/hire
 ```
-
 
 # 📑 Experience
 
@@ -52,8 +51,6 @@ npm init @rob.hameetman/hire
 > - Lead monthly global alignment meetings for the Engineering Practice and worked with offshore offices to find speakers for project spotlights.
 > - Created, standardized, and curated internal NPM package ecosystems, including `@inspire11`, `@i11`, and `@inspire-ui`.
 
----
-
 ## Sr. Full Stack Engineer, Contract
 
 ### The Graide Network | _2018_
@@ -74,8 +71,6 @@ npm init @rob.hameetman/hire
 > - Implemented an autonomous distributed data archival solution to reduce the impact of undulations with rapid declension in data relevancy capable of archiving over 1,000,000 records in ~3.62μs on average.
 > - Spoke as a guest at Packback on Testing Patterns and Anti-Patterns in Angular for the Angular Chicago Meetup.
 
----
-
 ## Engineering Consultant, Pro Bono
 
 ### She Should Run | _2017 – 2018_
@@ -85,8 +80,6 @@ npm init @rob.hameetman/hire
 
 > - Collaborated with the leadership team to develop a scalable cloud infrastructure solution across the manifold service regions and availability zones throughout the contiguous United States.
 > - Implemented a new client-facing UI (NationBuilder) yielding a proximate 13% boost in online fundraising.
-
----
 
 ## Full Stack Engineer
 
@@ -101,8 +94,6 @@ npm init @rob.hameetman/hire
 > - Discovered how to use OpenSSL with Chef to allow local development of the Cardholder Data Environment.
 > - Spearheaded the transition from Puppet to Chef for all virtualization provisioning yielding significant improvements in local development workflows and a 6% reduction in VM provisioning time-to-completion.
 
----
-
 ## Front End Developer
 
 ### Web2Carz.com | _2015 – 2016_
@@ -115,9 +106,9 @@ npm init @rob.hameetman/hire
 > - Contributed to iOS (C#) and Android (Java) applications as needed.
 > - Reduced client-bound stylesheet payload size by 23% from ~1.2MB to 926KB by refactoring SCSS modules with Stylestats and by introducing BEM principles to minimize excessive specificity.
 
----
-
 # 🎓 Education
+
+---
 
 ## Carthage College
 
