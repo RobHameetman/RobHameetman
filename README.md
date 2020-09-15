@@ -29,11 +29,9 @@ npm init @rob.hameetman/hire
 
 ---
 
-## Inspire11
+## Inspire11 - Consultant, Engineering Lead
 
-### Consultant, Engineering Lead
-
-#### _2019 – present_
+### _2019 – present_
 
 [![React](https://img.shields.io/badge/React-16.8.0+%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-3+-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![StyledComponents](https://img.shields.io/badge/styled--components-4.3.1%20-%23DB7093.svg?&logo=styled-components&logoColor=DB7093)](https://styled-components.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![AWS](https://img.shields.io/badge/AWS-Serverless%20-%23ec902e.svg?&logo=amazon&logoColor=ec902e)](https://aws.amazon.com/lambda/)  
 [![UI Libraries](https://img.shields.io/badge/Storybook-UI%20Libraries-%23FF4785.svg?&logo=storybook&logoColor=FF4785)](https://storybook.js.org/) [![Package Ecosystems](https://img.shields.io/badge/NPM-Package%20Ecosystems-%23d20000.svg?&logo=npm&logoColor=d20000)](https://www.npmjs.com/)
@@ -53,11 +51,9 @@ npm init @rob.hameetman/hire
 > - Lead monthly global alignment meetings for the Engineering Practice and worked with offshore offices to find speakers for project spotlights.
 > - Created, standardized, and curated internal NPM package ecosystems, including `@inspire11`, `@i11`, and `@inspire-ui`.
 
-## The Graide Network
+## The Graide Network - Sr. Full Stack Engineer, Contract
 
-### Sr. Full Stack Engineer, Contract
-
-#### _2018_
+### _2018_
 
 [![Angular](https://img.shields.io/badge/Angular-6.0.0%20-%23DD0031.svg?&logo=angular&logoColor=DD0031)](https://angular.io/) [![TS](https://img.shields.io/badge/TypeScript-2-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![RxJS](https://img.shields.io/badge/RxJS-6.0.0%20-%23B7178C.svg?&logo=ReactiveX&logoColor=white)](https://www.learnrxjs.io/) [![NgRx](https://img.shields.io/badge/NgRX-6.0.0+%20-%23764ABC.svg?&logo=redux&logoColor=white)](https://ngrx.io/)
 [![Laravel](https://img.shields.io/badge/laravel-5.5+%20-%23FF2D20.svg?&logo=laravel&logoColor=FF2D20)](https://laravel.com/) [![MySQL](https://img.shields.io/badge/MySQL-5.7+%20-%23245478.svg?&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![Redis](https://img.shields.io/badge/Redis-5.0+%20-%23c6302b.svg?&logo=redis&logoColor=c6302b)](https://redis.io/)
@@ -75,11 +71,9 @@ npm init @rob.hameetman/hire
 > - Implemented an autonomous distributed data archival solution to reduce the impact of undulations with rapid declension in data relevancy capable of archiving over 1,000,000 records in ~3.62μs on average.
 > - Spoke as a guest at Packback on Testing Patterns and Anti-Patterns in Angular for the Angular Chicago Meetup.
 
-## She Should Run
+## She Should Run - Engineering Consultant, Pro Bono
 
-### Engineering Consultant, Pro Bono
-
-#### _2017 – 2018_
+### _2017 – 2018_
 
 [![JS](https://img.shields.io/badge/ES-2015+%20-%23F7DF1E.svg?&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/ecma-262/6.0/) [![HTML](https://img.shields.io/badge/HTML-5%20-%23E34F26.svg?&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org/) [![CSS](https://img.shields.io/badge/CSS-3%20-%23254ee4.svg?&logo=css3&logoColor=254ee4)](https://www.w3.org/TR/css-2018/) [![SCSS](https://img.shields.io/badge/SCSS-3.4%20-hotpink.svg?&logo=SASS&logoColor=hotpink)](https://sass-lang.com/)
 [![NationBuilder](https://img.shields.io/badge/%23%20NationBuilder-2.1-%236d7096.svg?&logo=x&logoColor=6d7096)](https://nationbuilder.com/) [![Liquid](https://img.shields.io/badge/Liquid-Templating%20Language-%23fcd514.svg?&logo=drop&logoColor=white)](https://nationbuilder.com/liquid)
