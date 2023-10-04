@@ -28,11 +28,11 @@ underpin my approach:
 | Cross-functional Collaboration | Golang / Python / Ruby        |
 | Effective Governance           | CI/CD / AWS Infrastructure    |
 
-# 📃 Experience
+## 📃 Experience
 
-## Staff Engineer, Frontend Foundations
+### Staff Engineer, Frontend Foundations
 
-### Guild
+#### Guild
 
 _2021 – present_
 
@@ -45,10 +45,9 @@ _2021 – present_
 - Expedited the organizational adoption of micro-frontend architecture, achieving full implementation within one quarter and increasing overall development speed by 26%.
 - Minimized project timeline disruptions during an org-wide rebrand by implementing a gated dual-brand strategy, resulting in zero downtime.
 
-## Principal Solutions Engineer
+### Principal Solutions Engineer
 
-### STX
-
+**STX**  
 _2020 – 2021_
 
 [![React](https://img.shields.io/badge/React-16.8%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-4.0+-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-%2306B6D4.svg?&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![WebSockets](https://img.shields.io/badge/​-WebSockets%20-%23ec902e.svg?&logo=socket.io&logoColor=ec902e)](https://websockets.readthedocs.io/en/stable/) [![Phenoix LiveView](https://img.shields.io/badge/Pheonix-LiveView%20-%234B275F.svg?&logo=elixir&logoColor=4B275F)](https://github.com/phoenixframework/phoenix_live_view)  
@@ -60,10 +59,9 @@ _2020 – 2021_
 - Expanded the team from 2 to 6 Engineers within 12 months, achieving a 100% retention rate.
 - Increased platform-wide Time to Interaction by up to 600% during peak traffic times, enhancing user experience and reducing churn by 13%.
 
-## Consultant, Engineering Lead
+### Consultant, Engineering Lead
 
-### Inspire11
-
+**Inspire11**  
 _2019 – 2020_
 
 [![React](https://img.shields.io/badge/React-16.8%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-2.7-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![StyledComponents](https://img.shields.io/badge/styled--components-4.3%20-%23DB7093.svg?&logo=styled-components&logoColor=DB7093)](https://styled-components.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![AWS](https://img.shields.io/badge/AWS-Serverless%20-%23ec902e.svg?&logo=amazon&logoColor=ec902e)](https://aws.amazon.com/lambda/)  
@@ -78,20 +76,20 @@ _2019 – 2020_
 
 # 📜 Additional Experience
 
-**Lead Engineer**
-The Graide Network
+**Lead Engineer**  
+The Graide Network  
 _2016 – 2019_
 
-**Sr. Front End Engineer**
-Web2Carz
+**Sr. Front End Engineer**  
+Web2Carz  
 _2015 – 2016_
 
-**Front End Developer II**
-Briteflow
+**Front End Developer II**  
+Briteflow  
 _2012 – 2015_
 
-**Web Developer Internship, Summer**
-Direct Lending Family
+**Web Developer Internship, Summer**  
+Direct Lending Family  
 _2011_
 
 [header]: https://github.com/RobHameetman/RobHameetman/blob/master/.github/header.png '@rob.hameetman'
