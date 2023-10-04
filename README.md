@@ -30,8 +30,6 @@ underpin my approach:
 
 # 📃 Experience
 
----
-
 ## Staff Engineer, Frontend Foundations
 
 ### Guild
@@ -41,11 +39,11 @@ _2021 – present_
 [![React](https://img.shields.io/badge/React-18.0+%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-4.0+-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![WebSockets](https://img.shields.io/badge/​-WebSockets%20-%239E1F4F.svg?&logo=socket.io&logoColor=FFFFFF)](https://websockets.readthedocs.io/en/stable/) [![AWS](https://img.shields.io/badge/AWS-Cloudformation%20%2B%20CDK-%23ec902e.svg?&logo=amazon&logoColor=ec902e)](https://aws.amazon.com/cloudformation/)  
 [![Webpack](https://img.shields.io/badge/Webpack-Shared%20Build%20Pipelines-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![UI Libraries](https://img.shields.io/badge/Storybook-UI%20Libraries-%23FF4785.svg?&logo=storybook&logoColor=FF4785)](https://storybook.js.org/) [![Package Ecosystems](https://img.shields.io/badge/NPM-Package%20Ecosystems-%23d20000.svg?&logo=npm&logoColor=d20000)](https://www.npmjs.com/) [![Custom Dashboarding](https://img.shields.io/badge/DataDog-Custom%20Dashboarding-%23632CA6.svg?&logo=datadog&logoColor=FFFFFF)](https://www.datadoghq.com/)
 
-> - Increased delivery efficiency by 20% by implementing a comprehensive feedback and mentorship system for the Foundations team.
-> - Directed the successful launch of 5 major projects by devising and executing detailed Architecture Decision Records, which encompassed resource allocation, risk management, and QA protocols.
-> - Elevated organizational standards of technical excellence by implementing new ESLint and Stylelint plugin packages, resulting in a 17% improvement in code quality metrics.
-> - Expedited the organizational adoption of micro-frontend architecture, achieving full implementation within one quarter and increasing overall development speed by 26%.
-> - Minimized project timeline disruptions during an org-wide rebrand by implementing a gated dual-brand strategy, resulting in zero downtime.
+- Increased delivery efficiency by 20% by implementing a comprehensive feedback and mentorship system for the Foundations team.
+- Directed the successful launch of 5 major projects by devising and executing detailed Architecture Decision Records, which encompassed resource allocation, risk management, and QA protocols.
+- Elevated organizational standards of technical excellence by implementing new ESLint and Stylelint plugin packages, resulting in a 17% improvement in code quality metrics.
+- Expedited the organizational adoption of micro-frontend architecture, achieving full implementation within one quarter and increasing overall development speed by 26%.
+- Minimized project timeline disruptions during an org-wide rebrand by implementing a gated dual-brand strategy, resulting in zero downtime.
 
 ## Principal Solutions Engineer
 
@@ -56,11 +54,11 @@ _2020 – 2021_
 [![React](https://img.shields.io/badge/React-16.8%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-4.0+-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-%2306B6D4.svg?&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![WebSockets](https://img.shields.io/badge/​-WebSockets%20-%23ec902e.svg?&logo=socket.io&logoColor=ec902e)](https://websockets.readthedocs.io/en/stable/) [![Phenoix LiveView](https://img.shields.io/badge/Pheonix-LiveView%20-%234B275F.svg?&logo=elixir&logoColor=4B275F)](https://github.com/phoenixframework/phoenix_live_view)  
 [![Performance Optimization](https://img.shields.io/badge/JSX-Performance%20Optimization-%2361DAFB.svg?&logo=react&logoColor=61DAFB)](https://www.npmjs.com/) [![Webpack](https://img.shields.io/badge/Webpack-Shared%20Build%20Pipelines-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Package Ecosystems](https://img.shields.io/badge/NPM-Package%20Ecosystems-%23d20000.svg?&logo=npm&logoColor=d20000)](https://www.npmjs.com/)
 
-> - Built and scaled an industry-leading Front End practice, achieving a 99.5% defect-free code output through rigorous testing and architecture planning.
-> - Developed KPI-aligned product roadmaps, resulting in a 20% increase in user satisfaction scores and a 12% uplift in platform engagement.
-> - Instituted Front End Engineering principles and processes that reduced turnaround times during code review by 30% and boosted overall Lead Time for Changes by 20%.
-> - Expanded the team from 2 to 6 Engineers within 12 months, achieving a 100% retention rate.
-> - Increased platform-wide Time to Interaction by up to 600% during peak traffic times, enhancing user experience and reducing churn by 13%.
+- Built and scaled an industry-leading Front End practice, achieving a 99.5% defect-free code output through rigorous testing and architecture planning.
+- Developed KPI-aligned product roadmaps, resulting in a 20% increase in user satisfaction scores and a 12% uplift in platform engagement.
+- Instituted Front End Engineering principles and processes that reduced turnaround times during code review by 30% and boosted overall Lead Time for Changes by 20%.
+- Expanded the team from 2 to 6 Engineers within 12 months, achieving a 100% retention rate.
+- Increased platform-wide Time to Interaction by up to 600% during peak traffic times, enhancing user experience and reducing churn by 13%.
 
 ## Consultant, Engineering Lead
 
@@ -71,12 +69,12 @@ _2019 – 2020_
 [![React](https://img.shields.io/badge/React-16.8%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-2.7-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![StyledComponents](https://img.shields.io/badge/styled--components-4.3%20-%23DB7093.svg?&logo=styled-components&logoColor=DB7093)](https://styled-components.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![AWS](https://img.shields.io/badge/AWS-Serverless%20-%23ec902e.svg?&logo=amazon&logoColor=ec902e)](https://aws.amazon.com/lambda/)  
 [![Webpack](https://img.shields.io/badge/Webpack-Shared%20Build%20Pipelines-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![UI Libraries](https://img.shields.io/badge/Storybook-UI%20Libraries-%23FF4785.svg?&logo=storybook&logoColor=FF4785)](https://storybook.js.org/) [![Package Ecosystems](https://img.shields.io/badge/NPM-Package%20Ecosystems-%23d20000.svg?&logo=npm&logoColor=d20000)](https://www.npmjs.com/)
 
-> - Reduced overhead costs by 18% and improved client delivery timelines by 25% as the Architect/Lead on B2B enterprise projects.
-> - Orchestrated and launched cross-product integrations, achieving a 95% client satisfaction rate for new features and services.
-> - Enhanced hiring and onboarding processes as part of the Interview Team and Associate Mentorship Program, resulting in a 20% reduction in new-hire ramp-up time.
-> - Retained the firm’s two largest accounts through a 98% client satisfaction rate and multiple successful project deliveries.
-> - Innovated an experimental custom micro-frontend architecture, boosting distributed system efficiency by 32% and receiving industry recognition.
-> - Streamlined workflows as a member of the Engineering Committee, leading to a 21% increase in productivity and the successful publication of 6 whitepapers that have been cited in industry discussions.
+- Reduced overhead costs by 18% and improved client delivery timelines by 25% as the Architect/Lead on B2B enterprise projects.
+- Orchestrated and launched cross-product integrations, achieving a 95% client satisfaction rate for new features and services.
+- Enhanced hiring and onboarding processes as part of the Interview Team and Associate Mentorship Program, resulting in a 20% reduction in new-hire ramp-up time.
+- Retained the firm’s two largest accounts through a 98% client satisfaction rate and multiple successful project deliveries.
+- Innovated an experimental custom micro-frontend architecture, boosting distributed system efficiency by 32% and receiving industry recognition.
+- Streamlined workflows as a member of the Engineering Committee, leading to a 21% increase in productivity and the successful publication of 6 whitepapers that have been cited in industry discussions.
 
 # 📜 Additional Experience
 
@@ -88,17 +86,11 @@ _2019 – 2020_
 
 _2016 – 2019_
 
-[![Angular](https://img.shields.io/badge/Angular-6%20-%23DD0031.svg?&logo=angular&logoColor=DD0031)](https://angular.io/) [![TS](https://img.shields.io/badge/TypeScript-2.1-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![RxJS](https://img.shields.io/badge/RxJS-6%20-%23B7178C.svg?&logo=ReactiveX&logoColor=white)](https://www.learnrxjs.io/) [![NgRx](https://img.shields.io/badge/NgRX-6%20-%23764ABC.svg?&logo=redux&logoColor=white)](https://ngrx.io/) [![Webpack](https://img.shields.io/badge/Webpack-2%20-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Jasmine](https://img.shields.io/badge/Jasmine-2.8%20-%238A4182.svg?&logo=jasmine&logoColor=8A4182)](https://jasmine.github.io/)  
-[![Laravel](https://img.shields.io/badge/laravel-5.5%20-%23FF2D20.svg?&logo=laravel&logoColor=FF2D20)](https://laravel.com/) [![MySQL](https://img.shields.io/badge/MySQL-5.7%20-%23245478.svg?&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![Redis](https://img.shields.io/badge/Redis-5.0%20-%23c6302b.svg?&logo=redis&logoColor=c6302b)](https://redis.io/) [![Docker](https://img.shields.io/badge/Docker-17.12%20-%232496ED.svg?&logo=docker&logoColor=2496ED)](https://www.docker.com/) [![Codeship](https://img.shields.io/badge/Codeship-1.6%20-%233C4858.svg?&logo=codeship&logoColor=white)](https://codeship.com/)
-
 ## Sr. Front End Engineer
 
 ### Web2Carz
 
 _2015 – 2016_
-
-[![AngularJS](https://img.shields.io/badge/AngularJS-1.9%20-%23E23237.svg?&logo=angularjs&logoColor=E23237)](https://angularjs.org/) [![JS](https://img.shields.io/badge/ES-6%20-%23F7DF1E.svg?&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/ecma-262/6.0/) [![jQuery](https://img.shields.io/badge/jQuery-2.1%20-%230769AD.svg?&logo=jquery&logoColor=0769AD)](https://jquery.com/) [![Node](https://img.shields.io/badge/Node-0.11%20-%2390c540.svg?&logo=node.js&logoColor=90c540)](https://nodejs.org/en/) [![SCSS](https://img.shields.io/badge/SCSS-3.4%20-hotpink.svg?&logo=SASS&logoColor=hotpink)](https://sass-lang.com/)  
-[![C#](https://img.shields.io/badge/C%23-5.0-%23239120.svg?&logo=c-sharp&logoColor=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![JAVA](https://img.shields.io/badge/Java-7-%23007396.svg?&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html) [![PHP](https://img.shields.io/badge/PHP-5.3-%23777BB4.svg?&logo=php&logoColor=777BB4)](https://www.php.net/)
 
 ## Front End Developer II
 
@@ -106,16 +98,10 @@ _2015 – 2016_
 
 _2012 – 2015_
 
-[![React](https://img.shields.io/badge/React-0.14%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![Webpack](https://img.shields.io/badge/Webpack-1%20-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Babel](https://img.shields.io/badge/Babel-6.0%20-%23F9DC3E.svg?&logo=babel&logoColor=F9DC3E)](https://babeljs.io/) [![Node](https://img.shields.io/badge/Node-6.0%20-%2390c540.svg?&logo=node.js&logoColor=90c540)](https://nodejs.org/en/) [![PHP](https://img.shields.io/badge/PHP-5.6-%23777BB4.svg?&logo=php&logoColor=777BB4)](https://www.php.net/)  
-[![MySQL](https://img.shields.io/badge/MySQL-5.7%20-%23245478.svg?&logo=MySQL&logoColor=white)](https://www.mysql.com/) [![XML](https://img.shields.io/badge/XML-1.1-%236a9f32.svg?&logo=xml&logoColor=white)](https://www.w3.org/XML/) [![XSLT](https://img.shields.io/badge/XSLT-2.0%20-%234aa4a4.svg?&logo=xml&logoColor=white)](https://www.w3.org/Style/XSL/)
-
 ## Web Developer Internship, Summer
 
 ### Direct Lending Family
 
 _2011_
-
-[![JS](https://img.shields.io/badge/ES-6%20-%23F7DF1E.svg?&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/ecma-262/6.0/) [![jQuery](https://img.shields.io/badge/jQuery-1.7%20-%230769AD.svg?&logo=jquery&logoColor=0769AD)](https://jquery.com/) [![HTML](https://img.shields.io/badge/HTML-5%20-%23E34F26.svg?&logo=html5&logoColor=E34F26)](https://html.spec.whatwg.org/) [![CSS](https://img.shields.io/badge/CSS-3%20-%23254ee4.svg?&logo=css3&logoColor=254ee4)](https://www.w3.org/TR/css-2018/) [![SCSS](https://img.shields.io/badge/SCSS-3.1%20-hotpink.svg?&logo=SASS&logoColor=hotpink)](https://sass-lang.com/)  
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-2-%23007396.svg?&logo=bootstrap&logoColor=white)](https://getbootstrap.com/2.3.2/) [![CF](https://img.shields.io/badge/ColdFusion-9-%2327434f.svg?&logo=adobe&logoColor=white)](https://coldfusion.adobe.com/)
 
 [header]: https://github.com/RobHameetman/RobHameetman/blob/master/.github/header.png '@rob.hameetman'
