@@ -1,4 +1,16 @@
-![@rob.hameetman][header]
+<style>
+  .header {
+    background: url('https://github.com/RobHameetman/RobHameetman/blob/master/.github/header_light.png');
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .header {
+      background: url('https://github.com/RobHameetman/RobHameetman/blob/master/.github/header_dark.png');
+    }
+  }
+</style>
+
+<header class="header" />
 
 [![Experience](https://img.shields.io/badge/Experience-10%20Years-x.svg?&logo=visualstudiocode)](https://www.linkedin.com/in/rhameetman/) [![Level](https://img.shields.io/badge/Level-Staff%20Engineer-blue.svg?&logo=levelsdotfyi&logoColor=white)](https://www.linkedin.com/in/rhameetman/) [![Background](https://img.shields.io/badge/Background-Self%20Taught-7C5295.svg?&logo=bookstack&logoColor=white)](https://www.linkedin.com/in/rhameetman/) [![Degree](https://img.shields.io/badge/Degree-Bachelors-9E1F4F.svg?&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI3LjkuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA2OS4yIDkxLjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDY5LjIgOTEuNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOm5vbmU7fQoJLnN0MXtmaWxsOiNGRkZGRkY7fQo8L3N0eWxlPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzgsNDUuM2MtOS42LTE2LTEuNS0yNy45LTEuNS0yNy45Yy0xMC43LDcuMS0xMC45LDI0LjktNi4yLDMxLjljNi42LDkuNyw1LjUsMjQuNSw1LjUsMjQuNQoJQzQ3LjUsNTcuNywzOCw0NS4zLDM4LDQ1LjN6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00NC44LDU0LjljMCwwLDEuNiw2LjgtMi42LDEyLjljMCwwLDkuMy0zLjMsOC40LTEyLjZjLTAuNC00LjMtMi42LTYsMC43LTEzLjJDNTEuMyw0Miw0Mi4zLDQ1LjEsNDQuOCw1NC45eiIKCS8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yMS45LDU4LjVjNS43LDMuNiwxMCwxMS4yLDEwLDExLjJjMS40LTEzLjEtNi4zLTE3LjEtNi4zLTE3LjFjLTkuNC01LjgtOS4xLTE0LjgtOS4xLTE0LjgKCUMxMy40LDQzLjQsMTQuNyw1NCwyMS45LDU4LjV6Ii8+Cjxwb2x5Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iNjMuMiw3Ni43IDM0LjUsODQuOCA2LDc2LjkgNiw3LjggMi42LDcgMi42LDgwLjMgMzQuNiw4OC43IDY2LjYsODAuMyA2Ni42LDcgNjMuMiw3LjggIi8+Cjxwb2x5Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iNjMuMiw3Ni43IDM0LjUsODQuOCA2LDc2LjkgNiw3LjggMi42LDcgMi42LDgwLjMgMzQuNiw4OC43IDY2LjYsODAuMyA2Ni42LDcgNjMuMiw3LjggIi8+CjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik02My4yLDUuMVYwTDM0LjUsNy43TDYsMHY1LjFMMCwzLjd2NzguN2wzNC42LDkuMWwzNC42LTkuMVYzLjdMNjMuMiw1LjF6IE00NC44LDU0LjkKCUM0Mi4zLDQ1LjEsNTEuMyw0Miw1MS4zLDQyYy0zLjMsNy4yLTEuMSw4LjktMC43LDEzLjJjMC45LDkuMy04LjQsMTIuNi04LjQsMTIuNkM0Ni40LDYxLjYsNDQuOCw1NC45LDQ0LjgsNTQuOXogTTM2LjUsMTcuNAoJYzAsMC04LDExLjksMS41LDI3LjljMCwwLDkuNSwxMi40LTIuMiwyOC40YzAsMCwxLjEtMTQuOC01LjUtMjQuNUMyNS42LDQyLjMsMjUuOCwyNC41LDM2LjUsMTcuNHogTTE2LjUsMzcuOGMwLDAtMC4yLDguOSw5LjEsMTQuOAoJYzAsMCw3LjcsNCw2LjMsMTcuMWMwLDAtNC40LTcuNy0xMC0xMS4yQzE0LjcsNTQsMTMuNCw0My40LDE2LjUsMzcuOHogTTY2LjYsODAuM2wtMzIsOC40TDIuNiw4MC4zVjdMNiw3Ljh2NjkuMWwyOC42LDhsMjguNy04LjIKCVY3LjhMNjYuNiw3VjgwLjN6Ii8+Cjwvc3ZnPgo=&logoColor=white)](https://www.linkedin.com/in/rhameetman/)  
 
@@ -32,8 +44,7 @@ underpin my approach:
 
 ### Staff Engineer, Frontend Foundations
 
-#### Guild
-
+**Guild**  
 _2021 – present_
 
 [![React](https://img.shields.io/badge/React-18.0+%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-4.0+-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![WebSockets](https://img.shields.io/badge/​-WebSockets%20-%239E1F4F.svg?&logo=socket.io&logoColor=FFFFFF)](https://websockets.readthedocs.io/en/stable/) [![AWS](https://img.shields.io/badge/AWS-Cloudformation%20%2B%20CDK-%23ec902e.svg?&logo=amazon&logoColor=ec902e)](https://aws.amazon.com/cloudformation/)  
@@ -74,7 +85,7 @@ _2019 – 2020_
 - Innovated an experimental custom micro-frontend architecture, boosting distributed system efficiency by 32% and receiving industry recognition.
 - Streamlined workflows as a member of the Engineering Committee, leading to a 21% increase in productivity and the successful publication of 6 whitepapers that have been cited in industry discussions.
 
-# 📜 Additional Experience
+## 📜 Additional Experience
 
 **Lead Engineer**  
 The Graide Network  
@@ -91,5 +102,3 @@ _2012 – 2015_
 **Web Developer Internship, Summer**  
 Direct Lending Family  
 _2011_
-
-[header]: https://github.com/RobHameetman/RobHameetman/blob/master/.github/header.png '@rob.hameetman'
