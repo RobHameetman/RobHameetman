@@ -1,94 +1,28 @@
 ![@rob.hameetman][header]
 
-[![Experience](https://img.shields.io/badge/Experience-10%20Years-x.svg?&logo=visualstudiocode)](https://www.linkedin.com/in/rhameetman/) [![Level](https://img.shields.io/badge/Level-Staff%20Engineer-blue.svg?&logo=levelsdotfyi&logoColor=white)](https://www.linkedin.com/in/rhameetman/) [![Background](https://img.shields.io/badge/Background-Self%20Taught-7C5295.svg?&logo=bookstack&logoColor=white)](https://www.linkedin.com/in/rhameetman/) [![Degree](https://img.shields.io/badge/Degree-Bachelors-9E1F4F.svg?&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI3LjkuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA2OS4yIDkxLjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDY5LjIgOTEuNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOm5vbmU7fQoJLnN0MXtmaWxsOiNGRkZGRkY7fQo8L3N0eWxlPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzgsNDUuM2MtOS42LTE2LTEuNS0yNy45LTEuNS0yNy45Yy0xMC43LDcuMS0xMC45LDI0LjktNi4yLDMxLjljNi42LDkuNyw1LjUsMjQuNSw1LjUsMjQuNQoJQzQ3LjUsNTcuNywzOCw0NS4zLDM4LDQ1LjN6Ii8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00NC44LDU0LjljMCwwLDEuNiw2LjgtMi42LDEyLjljMCwwLDkuMy0zLjMsOC40LTEyLjZjLTAuNC00LjMtMi42LTYsMC43LTEzLjJDNTEuMyw0Miw0Mi4zLDQ1LjEsNDQuOCw1NC45eiIKCS8+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yMS45LDU4LjVjNS43LDMuNiwxMCwxMS4yLDEwLDExLjJjMS40LTEzLjEtNi4zLTE3LjEtNi4zLTE3LjFjLTkuNC01LjgtOS4xLTE0LjgtOS4xLTE0LjgKCUMxMy40LDQzLjQsMTQuNyw1NCwyMS45LDU4LjV6Ii8+Cjxwb2x5Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iNjMuMiw3Ni43IDM0LjUsODQuOCA2LDc2LjkgNiw3LjggMi42LDcgMi42LDgwLjMgMzQuNiw4OC43IDY2LjYsODAuMyA2Ni42LDcgNjMuMiw3LjggIi8+Cjxwb2x5Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iNjMuMiw3Ni43IDM0LjUsODQuOCA2LDc2LjkgNiw3LjggMi42LDcgMi42LDgwLjMgMzQuNiw4OC43IDY2LjYsODAuMyA2Ni42LDcgNjMuMiw3LjggIi8+CjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik02My4yLDUuMVYwTDM0LjUsNy43TDYsMHY1LjFMMCwzLjd2NzguN2wzNC42LDkuMWwzNC42LTkuMVYzLjdMNjMuMiw1LjF6IE00NC44LDU0LjkKCUM0Mi4zLDQ1LjEsNTEuMyw0Miw1MS4zLDQyYy0zLjMsNy4yLTEuMSw4LjktMC43LDEzLjJjMC45LDkuMy04LjQsMTIuNi04LjQsMTIuNkM0Ni40LDYxLjYsNDQuOCw1NC45LDQ0LjgsNTQuOXogTTM2LjUsMTcuNAoJYzAsMC04LDExLjksMS41LDI3LjljMCwwLDkuNSwxMi40LTIuMiwyOC40YzAsMCwxLjEtMTQuOC01LjUtMjQuNUMyNS42LDQyLjMsMjUuOCwyNC41LDM2LjUsMTcuNHogTTE2LjUsMzcuOGMwLDAtMC4yLDguOSw5LjEsMTQuOAoJYzAsMCw3LjcsNCw2LjMsMTcuMWMwLDAtNC40LTcuNy0xMC0xMS4yQzE0LjcsNTQsMTMuNCw0My40LDE2LjUsMzcuOHogTTY2LjYsODAuM2wtMzIsOC40TDIuNiw4MC4zVjdMNiw3Ljh2NjkuMWwyOC42LDhsMjguNy04LjIKCVY3LjhMNjYuNiw3VjgwLjN6Ii8+Cjwvc3ZnPgo=&logoColor=white)](https://www.linkedin.com/in/rhameetman/)  
+# Getting Started
 
-[![EMAIL](https://img.shields.io/badge/Email-%230078D4.svg?&logo=microsoft-outlook&logoColor=white)](mailto:rob@robhameetman.com) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhameetman/)  
+[![Blog](https://img.shields.io/badge/Author-UI%20Engineering%20Excellence-B82033.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAgCAYAAAD9oDOIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF92lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDIgNzkuMTY0NDYwLCAyMDIwLzA1LzEyLTE2OjA0OjE3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMDktMTRUMjI6MTI6MzgtMDU6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMDktMTRUMjI6MTI6MzgtMDU6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTA5LTE0VDIyOjEyOjM4LTA1OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjVlYzQxYzQzLWU2ODAtNDA5OC1hM2VmLTA2MzJlMTBmYjRkMSIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjJiNTk5YzgwLTZhMmItMGM0OS04ZmZiLTljN2EwMThjYWM3ZSIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOjY2ZDhkMjllLTBjNzYtNDRkMy04ZmYzLWRlYzBkOTk0OGNiZSIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNyZWF0ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6NjZkOGQyOWUtMGM3Ni00NGQzLThmZjMtZGVjMGQ5OTQ4Y2JlIiBzdEV2dDp3aGVuPSIyMDIwLTA5LTE0VDIyOjEyOjM4LTA1OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6NWVjNDFjNDMtZTY4MC00MDk4LWEzZWYtMDYzMmUxMGZiNGQxIiBzdEV2dDp3aGVuPSIyMDIwLTA5LTE0VDIyOjEyOjM4LTA1OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgMjEuMiAoTWFjaW50b3NoKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6GT3tJAAACeklEQVRIDbXBX2gUdBwA8G+FBFFI+tJD9BClkFi+ZEH0EEWB0MsqJHBBGbmZ0EtYPVQUGbiCQilyYWA2xLWKWVrCQkgfhhbalv1RZEuu2tLyrjJv63afDn6TX9fdpgX3+QS6MYAhjGIMRRRR1lwZRRQxhlEMYQDdIRvGctyK5zEpGccqLEUHTkgqeBE3ow1fmBaS47gca/EObsSDmMQi3IdtuBc3oILVWIKteApzcURNSJ7D/bIxXIQeXIuqZApXYxfmYES2Ek+qCckTWCM7gznYiKXqLcEWXICibC3WqAnJIOZiFwp4GLfgV8zDBvyIVzEfJdyBFTiO3ZiHPWpCtgVX4GLcjoJkHxZGDa7DoGQcd+FCzMcbpoXstOSM7E9ZWTKBv2RlTKFsWkj243P04ZRkGPvQjzHJUXyK3RiRFPAR9uKwmkAvSrID2I4Tsq/Rh4JsBH04IhtHb2iB0AKhBUILhBYIvIefZHvwAUZkg+jHV7KD2IH9su+wPTCBbzCAXpQlo9iJXvwmGUc/3sdJSQnv4kP8gELgpPNXcW4HA0c19zOGZW/hGnSZ3Y7AJ5r7Fsvwh6QLd2Or2b0SeFlzVTyNddiEdvRgyOweCCwzswmsw2q04SHJx2a2MHAJftdoLzrRjjfxApZLBvGlRt/HWdik0QF04xcU8AzuxGFJl0YvxVlYgIpGp3EKj+F1rMTjkmfVq2JB/BM2qlfFCtyGDnSgA49gJzao1xP/hktxTL1D2IxDKOBRrMdnmJKVcFU0g0UomdkqdGJSvXtiNrgJJY2KaMd69TrjfGAxjmlUlBXRFv8FLsNrqKhXxdu4Mv4vLMY2FLEZ18c5/A2+RAHvxwc3hQAAAABJRU5ErkJggg==&logoColor=white)](https://www.linkedin.com/in/rhameetman/) [![Experience](https://img.shields.io/badge/Experience-10%20Years-limegreen.svg?&logo=gnometerminal)](https://www.linkedin.com/in/rhameetman/) [![Level](https://img.shields.io/badge/Level-Staff+-blue.svg?&logo=levelsdotfyi&logoColor=white)](https://www.linkedin.com/in/rhameetman/) [![Expertise](https://img.shields.io/badge/Expertise-Front%20End-7C5295.svg?&logo=bookstack&logoColor=white)](https://www.linkedin.com/in/rhameetman/)  
+![Total Stars](https://img.shields.io/badge/Total%20Stars-62k-2b2e33.svg) ![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2025)-12k-2b2e33.svg) ![Total PRs](https://img.shields.io/badge/Total%20PRs-66k-2b2e33.svg) ![Total Issues](https://img.shields.io/badge/Total%20Issues-14k-2b2e33.svg) ![Projects YoY](https://img.shields.io/badge/Projects%20YoY-3-2b2e33.svg)  
 
----
+[![EMAIL](https://img.shields.io/badge/Get%20in%20touch-%230078D4.svg?&logo=gmail&logoColor=white)](mailto:engineering@robhameetman.com) 
 
-I am a dynamic and seasoned **Staff Engineer** with a passion for transforming
-provisional or monolithic application architectures into scalable distributed
-systems. Leveraging a rich blend of technical expertise and creative acumen, I
-craft solutions that resonate with users while achieving strategic businesses
-goals. With a knack for pinpointing system inefficiencies and redesigning for
-optimal performance, I'm not just about building software, but evolving it to
-its maximum potential. I'm continuously pushing the envelope, seeking robust
-engineering environments where the fusion of innovation and ambition turn
-visions into digital realities. While my overarching goal is professional
-growth and challenging the status quo, several key strengths and competencies
-underpin my approach:
+I’m a Staff Design Engineer from Chicago who builds sexy, scalable
+enterprise-strength design systems. I've been doing it for 10 years
+and don't plan on stopping anytime soon.
 
-| **Strengths**                  | **Competencies**              |
-|--------------------------------|-------------------------------|
-| Organizational Leadership      | Distributed Systems           |
-| Engineering Excellence         | Micro-frontend Architecture   |
-| Strategic Vision               | Package Ecosystems            |
-| Scalability Focus              | Design Systems / UI Libraries |
-| Stakeholder Alignment          | TypeScript / React / Next.js  |
-| Cross-functional Collaboration | Golang / Python / Ruby        |
-| Effective Governance           | CI/CD / AWS Infrastructure    |
+💼 Frontend Platform Lead at [Vivid Seats](https://www.vividseats.com)  
+⚒️ Built react-pacts, omiframe.js, and more — 2M+ hits • 62k stars on GitHub  
+💙 Building dope shit in TypeScript and React is my fave  
+📝 I have a [personal blog](https://blog.robhameetman.com) that you should check out!  
+💬 Ask me about anything [here](https://github.com/robhameetman/robhameetman/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)  
 
-## 📃 Experience
+## Creds
 
-### Staff Engineer, Frontend Foundations
+[![Vivid Seats](https://img.shields.io/badge/Vivid%20Seats-Frontend%20Platform%20Lead-2b2e33.svg)](https://www.vividseats.com) [![Guild](https://img.shields.io/badge/Guild-Staff%20Engineer%2C%20Frontend%20Foundations-2b2e33.svg)](https://www.guild.com) [![Capital One](https://img.shields.io/badge/Capital%20One-Platform%20Lead%2C%20US%20Card%20Core-2b2e33.svg)](https://www.capitalone.com) [![Peapod Digial Labs](https://img.shields.io/badge/Peapod%20Digital%20Labs-Lead%20UI%20Engineer-2b2e33.svg)](https://www.peapod.com) [![STX](https://img.shields.io/badge/STX-Solutions%20Architect%2C%20Frontend-2b2e33.svg)](https://www.stxapp.io) [![Inspire11](https://img.shields.io/badge/Inspire11-Enterprise%20%20Micro--frontend%20Architect-2b2e33.svg)](https://www.inspire11.com)  
 
-**Guild**  
-_2021 – present_
+## Follow me here!
 
-[![React](https://img.shields.io/badge/React-18.0+%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-4.0+-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![WebSockets](https://img.shields.io/badge/​-WebSockets%20-%239E1F4F.svg?&logo=socket.io&logoColor=FFFFFF)](https://websockets.readthedocs.io/en/stable/) [![AWS](https://img.shields.io/badge/AWS-Cloudformation%20%2B%20CDK-%23ec902e.svg?&logo=amazon&logoColor=ec902e)](https://aws.amazon.com/cloudformation/)  
-[![Webpack](https://img.shields.io/badge/Webpack-Shared%20Build%20Pipelines-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![UI Libraries](https://img.shields.io/badge/Storybook-UI%20Libraries-%23FF4785.svg?&logo=storybook&logoColor=FF4785)](https://storybook.js.org/) [![Package Ecosystems](https://img.shields.io/badge/NPM-Package%20Ecosystems-%23d20000.svg?&logo=npm&logoColor=d20000)](https://www.npmjs.com/) [![Custom Dashboarding](https://img.shields.io/badge/DataDog-Custom%20Dashboarding-%23632CA6.svg?&logo=datadog&logoColor=FFFFFF)](https://www.datadoghq.com/)
-
-- Increased delivery efficiency by 20% by implementing a comprehensive feedback and mentorship system for the Foundations team.
-- Directed the successful launch of 5 major projects by devising and executing detailed Architecture Decision Records, which encompassed resource allocation, risk management, and QA protocols.
-- Elevated organizational standards of technical excellence by implementing new ESLint and Stylelint plugin packages, resulting in a 17% improvement in code quality metrics.
-- Expedited the organizational adoption of micro-frontend architecture, achieving full implementation within one quarter and increasing overall development speed by 26%.
-- Minimized project timeline disruptions during an org-wide rebrand by implementing a gated dual-brand strategy, resulting in zero downtime.
-
-### Principal Solutions Engineer
-
-**STX**  
-_2020 – 2021_
-
-[![React](https://img.shields.io/badge/React-16.8%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-4.0+-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-%2306B6D4.svg?&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![WebSockets](https://img.shields.io/badge/​-WebSockets%20-%23ec902e.svg?&logo=socket.io&logoColor=ec902e)](https://websockets.readthedocs.io/en/stable/) [![Phenoix LiveView](https://img.shields.io/badge/Pheonix-LiveView%20-%234B275F.svg?&logo=elixir&logoColor=4B275F)](https://github.com/phoenixframework/phoenix_live_view)  
-[![Performance Optimization](https://img.shields.io/badge/JSX-Performance%20Optimization-%2361DAFB.svg?&logo=react&logoColor=61DAFB)](https://www.npmjs.com/) [![Webpack](https://img.shields.io/badge/Webpack-Shared%20Build%20Pipelines-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![Package Ecosystems](https://img.shields.io/badge/NPM-Package%20Ecosystems-%23d20000.svg?&logo=npm&logoColor=d20000)](https://www.npmjs.com/)
-
-- Built and scaled an industry-leading Front End practice, achieving a 99.5% defect-free code output through rigorous testing and architecture planning.
-- Developed KPI-aligned product roadmaps, resulting in a 20% increase in user satisfaction scores and a 12% uplift in platform engagement.
-- Instituted Front End Engineering principles and processes that reduced turnaround times during code review by 30% and boosted overall Lead Time for Changes by 20%.
-- Expanded the team from 2 to 6 Engineers within 12 months, achieving a 100% retention rate.
-- Increased platform-wide Time to Interaction by up to 600% during peak traffic times, enhancing user experience and reducing churn by 13%.
-
-### Consultant, Engineering Lead
-
-**Inspire11**  
-_2019 – 2020_
-
-[![React](https://img.shields.io/badge/React-16.8%20-%236adefe.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![TS](https://img.shields.io/badge/TypeScript-2.7-%23007ACC.svg?&logo=typescript&logoColor=007ACC)](https://www.typescriptlang.org/) [![StyledComponents](https://img.shields.io/badge/styled--components-4.3%20-%23DB7093.svg?&logo=styled-components&logoColor=DB7093)](https://styled-components.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-Apollo%20-%23d6469a.svg?&logo=graphql&logoColor=d6469a)](https://graphql.org/) [![AWS](https://img.shields.io/badge/AWS-Serverless%20-%23ec902e.svg?&logo=amazon&logoColor=ec902e)](https://aws.amazon.com/lambda/)  
-[![Webpack](https://img.shields.io/badge/Webpack-Shared%20Build%20Pipelines-%238DD6F9.svg?&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/) [![UI Libraries](https://img.shields.io/badge/Storybook-UI%20Libraries-%23FF4785.svg?&logo=storybook&logoColor=FF4785)](https://storybook.js.org/) [![Package Ecosystems](https://img.shields.io/badge/NPM-Package%20Ecosystems-%23d20000.svg?&logo=npm&logoColor=d20000)](https://www.npmjs.com/)
-
-- Reduced overhead costs by 18% and improved client delivery timelines by 25% as the Architect/Lead on B2B enterprise projects.
-- Orchestrated and launched cross-product integrations, achieving a 95% client satisfaction rate for new features and services.
-- Enhanced hiring and onboarding processes as part of the Interview Team and Associate Mentorship Program, resulting in a 20% reduction in new-hire ramp-up time.
-- Retained the firm’s two largest accounts through a 98% client satisfaction rate and multiple successful project deliveries.
-- Innovated an experimental custom micro-frontend architecture, boosting distributed system efficiency by 32% and receiving industry recognition.
-- Streamlined workflows as a member of the Engineering Committee, leading to a 21% increase in productivity and the successful publication of 6 whitepapers that have been cited in industry discussions.
-
-## 📜 Additional Experience
-
-**Lead Engineer**  
-The Graide Network  
-_2016 – 2019_
-
-**Sr. Front End Engineer**  
-Web2Carz  
-_2015 – 2016_
-
-**Front End Developer II**  
-Briteflow  
-_2012 – 2015_
-
-**Web Developer Internship, Summer**  
-Direct Lending Family  
-_2011_
+[![BLUESKY](https://img.shields.io/badge/Bluesky-%230285FF.svg?&logo=bluesky&logoColor=white)](https://bsky.app/profile/robhameetman.com) [![CODEPEN](https://img.shields.io/badge/Codepen-%23000000.svg?&logo=codepen&logoColor=white)](https://www.threads.com/@robhameetman) [![THREADS](https://img.shields.io/badge/Threads-%23000000.svg?&logo=threads&logoColor=white)](https://www.threads.com/@robhameetman) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PCFET0NUWVBFIHN2ZyAgUFVCTElDICctLy9XM0MvL0RURCBTVkcgMS4xLy9FTicgICdodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQnPjxzdmcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTYuNjkzIDU2LjY5MyIgaGVpZ2h0PSI1Ni42OTNweCIgaWQ9IkxheWVyXzEiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDU2LjY5MyA1Ni42OTMiIHdpZHRoPSI1Ni42OTNweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgZmlsbD0id2hpdGUiPjxnPjxwYXRoIGQ9Ik0zMC4wNzEsMjcuMTAxdi0wLjA3N2MtMC4wMTYsMC4wMjYtMC4wMzMsMC4wNTItMC4wNSwwLjA3N0gzMC4wNzF6Ii8+PHBhdGggZD0iTTQ5LjI2NSw0LjY2N0g3LjE0NWMtMi4wMTYsMC0zLjY1MSwxLjU5Ni0zLjY1MSwzLjU2M3Y0Mi42MTNjMCwxLjk2NiwxLjYzNSwzLjU2MiwzLjY1MSwzLjU2Mmg0Mi4xMiAgIGMyLjAxOSwwLDMuNjU0LTEuNTk3LDMuNjU0LTMuNTYyVjguMjNDNTIuOTE5LDYuMjYyLDUxLjI4Myw0LjY2Nyw0OS4yNjUsNC42Njd6IE0xOC40NzUsNDYuMzA0aC03LjQ2NVYyMy44NDVoNy40NjVWNDYuMzA0eiAgICBNMTQuNzQzLDIwLjc3N2gtMC4wNWMtMi41MDQsMC00LjEyNC0xLjcyNS00LjEyNC0zLjg4YzAtMi4yMDMsMS42Ny0zLjg4LDQuMjIzLTMuODhjMi41NTQsMCw0LjEyNSwxLjY3Nyw0LjE3NSwzLjg4ICAgQzE4Ljk2NywxOS4wNTIsMTcuMzQ1LDIwLjc3NywxNC43NDMsMjAuNzc3eiBNNDUuMzk0LDQ2LjMwNGgtNy40NjVWMzQuMjg2YzAtMy4wMTgtMS4wOC01LjA3OC0zLjc4MS01LjA3OCAgIGMtMi4wNjIsMC0zLjI5LDEuMzg5LTMuODMxLDIuNzMxYy0wLjE5NywwLjQ3OS0wLjI0NSwxLjE0OS0wLjI0NSwxLjgyMXYxMi41NDNoLTcuNDY1YzAsMCwwLjA5OC0yMC4zNTQsMC0yMi40NTloNy40NjV2My4xNzkgICBjMC45OTItMS41MywyLjc2Ni0zLjcwOSw2LjcyOS0zLjcwOWM0LjkxMSwwLDguNTk0LDMuMjExLDguNTk0LDEwLjExVjQ2LjMwNHoiLz48L2c+PC9zdmc+&logoColor=white)](https://www.linkedin.com/in/rhameetman/) 
 
 [header]: https://github.com/RobHameetman/RobHameetman/blob/master/.github/header.svg '@rob.hameetman'
