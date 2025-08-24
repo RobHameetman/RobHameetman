@@ -10,7 +10,7 @@ enterprise-strength design systems.
 ## Getting started
 
 💼 Frontend Platform Lead at [Vivid Seats](https://www.vividseats.com)  
-⚒️ Built react-pacts, omiframe.js, and more  
+⚒️ Built Shadow UI, react-pacts, and more  
 💙 TypeScript and React are my fave  
 📝 I have a [newsletter](https://blog.robhameetman.com) you should check out!  
 💬 Ask me about anything [here](https://github.com/robhameetman/robhameetman/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)  
